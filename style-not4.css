@@ -1,0 +1,32 @@
+h1 {
+    background-color: rgb(4, 12, 83);
+    border: solid 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3 {
+    background-color: rgb(255, 255, 255);
+    border: solid 1px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+

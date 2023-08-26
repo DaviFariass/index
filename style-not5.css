@@ -1,0 +1,31 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgba(255, 0, 85, 0.719);
+    background-color: rgba(0, 0, 0, 0.39);
+    text-align: center;
+    font-size:300%
+    
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    background-color: rgba(255, 255, 255, 0.308);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 34%;
+    transform: translate(-50%, -50%);
+    color: black;
+}

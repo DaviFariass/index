@@ -1,0 +1,34 @@
+header {
+    background-color: hsl(64, 97%, 87%);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 160%;
+    text-align: center;
+    font: weight 2000px;
+    border: solid;
+}
+
+main {
+    display: flex;
+    justify-content:space-around;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    color:yellowgreen;
+    text-align: justify;
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 41%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+

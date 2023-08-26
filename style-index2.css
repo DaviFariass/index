@@ -1,0 +1,483 @@
+.game-news {
+    color: white;
+    font-family: 'Rammetto One', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+.barra-pesquisa {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.inicio {
+    color: white;
+    width: 100px;
+    height: 67px;
+    background-color: #f4c430;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    text-align:center;
+    font-family: 'Rammetto One', cursive;
+}
+
+
+.noticias {
+    width: 100px;
+    height: 67px;
+    background-color: #f4c43080;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    text-align:center;
+    font-family: 'Rammetto One', cursive;
+    color: white;
+}
+
+.contatos {
+    width: 100px;
+    height: 67px;
+    background-color: #f4c430;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    text-align:center;
+    font-family: 'Rammetto One', cursive;
+    color: white;
+}
+
+.bem-vindos {
+    color: white;
+    font-family: 'Rammetto One', cursive;
+    text-align: center;
+    font-weight: 10%;
+}
+
+.noti {
+    background-color: rgba(244, 195, 48, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #f4c430;
+}
+
+.imagem-mine {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: green;
+}
+
+.texto-mine {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(50, 136, 24);
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-mine2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-gta {
+    background-color:rgb(0, 128, 0, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    color:green;
+}
+
+.imagem-gta {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: rgb(255, 0, 0);
+}
+
+.texto-gta {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-gta2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-r6 {
+    background-color: rgba(7, 12, 37, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%, -50%);
+    color: #0a2558;
+}
+
+.imagem-r6 {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: rgb(255, 255, 255);
+}
+
+.texto-r6 {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-r62 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-halo {
+    background-color: rgba(89, 4, 248, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 125%;
+    transform: translate(-50%, -50%);
+    color: rgba(89, 4, 248)
+}
+
+.imagem-halo {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: #0408f8
+}
+
+.texto-halo {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: #0408f8;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-halo2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-valorant {
+    background-color: rgba(255, 0, 85, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 150%;
+    transform: translate(-50%, -50%);
+    color: rgba(255, 0, 85);
+}
+
+.imagem-valorant {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: #29292c
+}
+
+.texto-valorant {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-valorant2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-ark {
+    background-color: rgba(255, 123, 0, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 175%;
+    transform: translate(-50%, -50%);
+    color: rgba(255, 123, 0);
+}
+
+.imagem-ark {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: #ffe600
+}
+
+.texto-ark {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: #ffe600;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-ark2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-gran {
+    background-color: rgba(255, 255, 255, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 200%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+.imagem-gran {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: #383838;
+}
+
+.texto-gran {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: #383838;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-gran2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-fz5 {
+    background-color: rgba(255, 0, 0, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 225%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 0, 0);
+}
+
+.imagem-fz5 {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: #0400ff;
+}
+
+.texto-fz5 {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: #0400ff;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-fz52 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-sea {
+    background-color: rgba(0, 217, 255, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 250%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 217, 255);
+}
+
+.imagem-sea {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: #ff6600;
+}
+
+.texto-sea {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: #ff6600;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-sea2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.noti-mario {
+    background-color: rgb(173, 255, 47, 0.3);
+    border:solid;
+    height:120px;
+    width: 1200px;
+    position:absolute ;
+    left: 50%;
+    top: 275%;
+    transform: translate(-50%, -50%);
+    color: greenyellow;
+}
+
+.imagem-mario {
+    position:absolute ;
+    left: 7%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border:solid;
+    border-radius: 5%;
+    color: rgb(255, 0, 0);
+}
+
+.texto-mario {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 17, 255);
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Rammetto One', cursive;
+}
+
+.texto-mario2 {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    right: 3%;
+    font-size:small;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}

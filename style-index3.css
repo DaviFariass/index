@@ -1,0 +1,75 @@
+.game-news {
+    color: white;
+    font-family: 'Rammetto One', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+.barra-pesquisa {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.inicio {
+    color: white;
+    width: 100px;
+    height: 67px;
+    background-color: #f4c430;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    text-align:center;
+    font-family: 'Rammetto One', cursive;
+}
+
+
+.noticias {
+    width: 100px;
+    height: 67px;
+    background-color: #f4c330;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    text-align:center;
+    font-family: 'Rammetto One', cursive;
+    color: white;
+}
+
+.contatos {
+    width: 100px;
+    height: 67px;
+    background-color: #f4c43080;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    text-align:center;
+    font-family: 'Rammetto One', cursive;
+    color: white;
+}
+
+.bem-vindos {
+    color: white;
+    font-family: 'Rammetto One', cursive;
+    text-align: center;
+    font-weight: 10%;
+}
+
+.telefone {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.425);
+}
+
+img {
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+}
+
+.newss {
+    color: white;
+    font-family: 'Rammetto One', cursive;
+    position: absolute;
+    left: 50%;
+    top: 120%;
+    transform: translate(-50%, -50%);
+}

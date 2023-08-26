@@ -1,0 +1,47 @@
+header {
+    background-color: rgb(23, 97, 21);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    border: solid;
+}
+
+h4 {
+    background-color: rgb(12, 95, 23);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border:solid;
+}
+
+h3 {
+    background-color: rgb(12, 95, 23);
+    border: solid;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+}
+
+article {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    justify-content:space-around;
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 34%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+

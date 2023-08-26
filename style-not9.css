@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    font-weight: 900;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    font-size: 150%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.363);
+    color: aliceblue;
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 29%;
+    transform: translate(-50%, -50%);
+    color: black;
+}

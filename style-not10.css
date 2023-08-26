@@ -1,0 +1,33 @@
+header {
+    background-color: green;
+    color: red;
+    border: solid 1px;
+    font-size: 140%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    color: green;
+    background-color: rgba(255, 0, 0, 0.322);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+    
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    color: black;
+}

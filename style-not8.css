@@ -1,0 +1,36 @@
+header {
+    background-color: #00640048;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    font-weight: 900;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around
+    
+}
+
+h3 {
+    text-align: justify;
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    background-color: #00640048;
+}
+
+.botao-inicio {
+    text-align: center;
+}
+
+.texto-botao {
+    position:absolute ;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+
